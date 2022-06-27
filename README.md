@@ -1,2 +1,2 @@
 # fs-extension-core
-Core/Main codebase for the Fontsnatcher Chrome Extension
+Core/Main code-base for the Fontsnatcher Chrome Extension
